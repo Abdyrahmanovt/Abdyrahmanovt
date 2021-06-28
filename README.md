@@ -2,7 +2,8 @@
 ![Header](https://github.com/Abdyrahmanovt/Abdyrahmanovt/blob/main/assets/developer.gif)
 
 ## I'm a beginner Fullstack developer 
-
+* 🚀 I’m currently learning Web Development
+* ✍🏻 I often write in my leisure time.
 
 ## Languages and Tools
 
