@@ -3,7 +3,7 @@
 
 ## I am a beginner fullstask developer from Kyrgyzstan
 * 🚀 I’m currently learning Web Development
-* ✍🏻 I often write in my leisure time.
+* ✍🏻 I often write code in my spare time.
 * ⚡ Every day i'm improving
 
 ## Languages and Tools
